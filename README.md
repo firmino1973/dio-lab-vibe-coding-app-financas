@@ -1,4 +1,38 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de Organização de Finanças Pessoais Israel Firmino com Vibe Coding
+PRD refinado no Copilot Web;
+'''markdown
+PRD – Aplicativo de Organização de Finanças Pessoais
+
+1. Contexto
+O aplicativo tem como objetivo simplificar o controle financeiro pessoal por meio de interações em linguagem natural.
+A proposta é substituir formulários e planilhas complexas por uma experiência conversacional intuitiva, acessível e personalizada.
+
+2. Problema
+- Usuários desistem de controlar seus gastos porque os apps atuais exigem entrada manual excessiva.
+- Falta de personalização e de recomendações práticas.
+- A experiência atual é burocrática e pouco engajante.
+
+3. Público-Alvo
+- Pessoas que desejam iniciar o controle financeiro de forma prática e sem complicações.
+- Principalmente iniciantes que nunca usaram ou abandonaram outros apps de finanças.
+- Nota importante: o design deve ser universal, garantindo boa experiência para o maior número possível de usuários, incluindo pessoas com diferentes níveis de letramento digital, idades e necessidades de acessibilidade.
+
+4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.
+2. Classificação automática das transações em categorias (alimentação, transporte, lazer etc.).
+3. Definição e acompanhamento de metas financeiras (ex.: guardar R$200/mês).
+4. Agente Financeiro: dicas de economia personalizadas e educativas.
+5. Relatórios simples e visuais (gráficos e resumos adaptados ao perfil do usuário).
+6. Design Universal: interface inclusiva, com linguagem clara, acessibilidade digital (ex.: suporte a leitores de tela, contraste adequado, navegação simplificada).
+
+5. Entregável da IA
+- Plano de MVP contendo:
+  - Principais telas (chat, metas, relatórios).
+  - Recursos necessários (NLP para chat, motor de categorização, módulo de relatórios).
+  - Esboço de validação inicial (testes com grupo piloto de usuários iniciantes e diversidade de perfis).
+- Linguagem acessível e educativa em português.
+
+'''
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -72,6 +106,13 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
+>Interações com lovable:
+>Crie um App de Finanças Pessoais com base no seguinte PRD (Documento de Requerimentos de Produto);{PRD}
+>neste app gostaria de adicionar um novo layout onde com o que já tem, ele me dá respostas sobre investimentos é possivel?
+
+Resultado final no Lovable;https://simple-finance-talk.lovable.app/
+<img width="2466" height="1142" alt="image" src="https://github.com/user-attachments/assets/7514de05-9bbc-4099-b384-5571f80d4064" />
+
 
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  

@@ -116,12 +116,75 @@ Resultado final no Lovable;https://simple-finance-talk.lovable.app/
 
 - Seu **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+- # 📱 App de Organização de Finanças Pessoais
 
+## 🎯 Objetivo
+Facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.  
+O app funciona por meio de conversas com o usuário e oferece recomendações automáticas de economia.
+
+---
+
+## 👥 Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+---
+
+## 📌 Funcionalidades Principais
+
+1. **Registro de Gastos via Conversa**
+   - Usuário informa gastos em linguagem natural:  
+     Exemplo: *“Gastei R$ 40 no mercado”*.
+   - O app interpreta e registra automaticamente.
+
+2. **Classificação Automática**
+   - Transações são categorizadas (alimentação, transporte, lazer etc.).
+   - Possibilidade de ajustes manuais pelo usuário.
+
+3. **Metas Financeiras**
+   - Definição de objetivos simples:  
+     Exemplo: *“Quero economizar R$ 200 este mês”*.
+   - Acompanhamento com barra de progresso.
+
+4. **Agente Financeiro**
+   - Personagem que interage no chat.
+   - Oferece dicas práticas e personalizadas de economia.
+
+5. **Relatórios Simples e Personalizados**
+   - Gráficos básicos (pizza ou barras).
+   - Resumos em linguagem acessível:  
+     Exemplo: *“Você gastou mais em transporte esta semana”*.
+
+---
+
+## 🚀 Benefícios para o Usuário
+- Controle financeiro sem complicação.  
+- Experiência leve e natural, sem planilhas ou formulários.  
+- Motivação extra com dicas e metas claras.  
+
+---
+
+## 🧪 Validação Inicial
+- Teste com 20–30 usuários iniciantes.  
+- Métricas principais:
+  - Quantidade de registros feitos via chat.
+  - Frequência de uso semanal.
+  - Clareza das dicas recebidas.
+  - Satisfação geral (pesquisa rápida dentro do app).  
+
+**Hipótese a validar:**  
+Usuários iniciantes conseguem registrar e acompanhar seus gastos apenas conversando com o app, sem desistir por complexidade.
+
+---
+ 
+- Uma breve **reflexão sobre o processo**:
+   
+  ## O que funcionou bem?  
+ O refinamento do PRD previamento feito no Copilot ajudou, pois foi usado para estruturar no lovable. funcinou bem até os créditos do lovable acabarem.
+  ## O que não funcionou como o esperado?  
+esperava interagir gratuitamente com o lovable e quando printei pra enviar o para o Copilot nâo criou o resumo com a imagem que printei
+  ## O que aprendeu sobre conversar com IAs?
+Aprendi que basicamente a conversar com uma pessoa, quanto mais clareza com a IA mais informações
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
